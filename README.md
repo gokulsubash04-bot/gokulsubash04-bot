@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Open+Source+Learner)](https://git.io/typing-svg)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsubash04-bot&show_icons=true)
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,tensorflow" />
