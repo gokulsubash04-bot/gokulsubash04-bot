@@ -34,12 +34,6 @@
   </a>
 </p>
 
-| Category | Core Focus Areas |
-| :--- | :--- |
-| **Data Science & AI** | Predictive Modeling, Neural Networks, Data Pipelines (`TensorFlow`, `Python`) |
-| **Frontend & Design** | Component Architecture, State Management, Responsive UI (`React`, `HTML5`, `CSS3`) |
-| **Databases & Tools** | Relational Database Design, Query Optimization, Version Control (`MySQL`, `Git`) |
-
 <!-- ✨ ANIMATED WAVING DIVIDER ✨ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" width="100%" />
