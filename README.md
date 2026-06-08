@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gokulsubash04-bot/gokulsubash04-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
