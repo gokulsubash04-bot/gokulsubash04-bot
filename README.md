@@ -50,17 +50,3 @@
   <img src="https://github-readme-stats.shion.dev/api?username=gokulsubash04-bot&show_icons=true&theme=tokyonight&count_private=true" alt="Gokul's GitHub stats" height="160px" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gokulsubash04-bot&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
-
-### 📈 Activity Wave
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsubash04-bot&theme=tokyonight&area=true&category=commits" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" width="100%" />
-</p>
-
-### 🤝 Connect with Me
-
-- 💬 Ask me about: Machine learning algorithms, SQL queries, or web layout fixes.
-- 📫 How to reach me: Drop a message on my GitHub discussions or connect via LinkedIn!
