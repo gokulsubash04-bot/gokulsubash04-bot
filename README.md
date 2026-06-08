@@ -53,6 +53,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about: Machine learning algorithms, SQL queries, or basic web layout fixes.
 - 📫 How to reach me: Drop a message on my GitHub discussions or connect via LinkedIn!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Open+Source+Learner)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,tensorflow" />
