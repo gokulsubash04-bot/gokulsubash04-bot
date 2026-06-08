@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulsubash04&show_icons=true&theme=tokyonight&count_private=true" alt="Gokul's GitHub stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsubash04&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulsubash04-bot&show_icons=true&theme=tokyonight&count_private=true" alt="Gokul's GitHub stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsubash04-bot&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
 
 ---
