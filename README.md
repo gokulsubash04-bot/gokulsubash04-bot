@@ -42,14 +42,10 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Metrics
 
-### 📊 GitHub Metrics
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsubash04-bot&theme=tokyonight" alt="Gokul's Streak Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gokulsubash04-bot&show_icons=true&theme=tokyonight&count_private=true" alt="Gokul's GitHub stats" height="160px" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gokulsubash04-bot&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsubash04-bot&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
