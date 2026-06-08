@@ -53,3 +53,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Machine learning algorithms, SQL queries, or basic web layout fixes.
 - 📫 How to reach me: Drop a message on my GitHub discussions or connect via LinkedIn!
 
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,html,css,git,github,vscode&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+<!-- Animated Activity Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Main%20Focus-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20Bots-green?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
