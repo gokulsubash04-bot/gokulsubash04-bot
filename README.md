@@ -30,7 +30,7 @@
 <!-- ✨ MULTI-COLOR ANIMATED ICON GRID ✨ -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,html,css,react,git,github,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,html,css,chromadb,react,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
