@@ -37,6 +37,10 @@ AI & Data Science Student | Python Developer | React Developer
 
 # 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 - 🎓 AI & Data Science student
 - 🤖 Passionate about artificial intelligence and machine learning
 - 🚀 Building AI assistants, RAG systems, and smart applications
@@ -44,6 +48,13 @@ AI & Data Science Student | Python Developer | React Developer
 - 🗄️ Exploring ChromaDB, SQL, and vector databases
 - 🧠 Learning LLMs, generative AI, and backend development
 - 🎯 Goal: become an AI Engineer
+
+</td>
+<td width="40%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation"/>
+</td>
+</tr>
+</table>
 
 ---
 
