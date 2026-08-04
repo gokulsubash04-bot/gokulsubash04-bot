@@ -82,31 +82,6 @@ AI & Data Science Student | Python Developer | React Developer
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 Bob AI Assistant
-
-AI-powered personal assistant with memory, RAG, automation and local LLM support.
-
-**Tech:** Python • FastAPI • ChromaDB • Ollama • SQLite
-
----
-
-## 🗺 Interactive College Mapping System
-
-Interactive campus navigation platform.
-
-**Tech:** React • Leaflet • OpenStreetMap • FastAPI
-
----
-
-## 📰 AI News Recommendation System
-
-Personalized AI-powered news recommendation engine.
-
-**Tech:** Python • Machine Learning • ChromaDB • FastAPI
-
----
 
 # 📊 Contribution Graph
 
