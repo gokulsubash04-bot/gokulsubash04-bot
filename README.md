@@ -5,22 +5,26 @@ AI & Data Science Student | Python Developer | React Developer
 </h3>
 
 <p align="center">
+  <img src="YOUR_BANNER_URL" alt="Jarvis AI Banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/gokulsubash04-bot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:gokulsubash04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;React+Frontend+Developer;FastAPI+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;React+Frontend+Developer;FastAPI+Developer;Building+AI+Powered+Applications;Exploring+LLMs+%26+RAG;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulsubash04-bot&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=gokulsubash04-bot&label=Profile+Views&color=36BCF7&style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
@@ -28,16 +32,16 @@ AI & Data Science Student | Python Developer | React Developer
 # 👨‍💻 About Me
 
 - 🎓 AI & Data Science Student
-- 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 🚀 Building AI Assistants, RAG Applications and Smart Systems
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🚀 Building AI Assistants, RAG Systems & Smart Applications
 - 🌐 Full Stack Developer using React & FastAPI
-- 🗄️ Interested in Databases, ChromaDB and Data Engineering
-- 📚 Currently learning LLMs, Generative AI and Advanced Backend Development
+- 🗄️ Exploring ChromaDB, SQL & Vector Databases
+- 🧠 Learning LLMs, Generative AI & Backend Architecture
 - 🎯 Goal: Become an AI Engineer
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
@@ -73,11 +77,11 @@ AI & Data Science Student | Python Developer | React Developer
 
 # 🚀 Featured Projects
 
-## 🤖 Bob AI Assistant
+### 🤖 Bob AI Assistant
 
-AI-powered personal assistant with memory, RAG, automation and local LLM support.
+> AI-powered personal assistant with memory, automation, local LLMs and RAG.
 
-**Tech Used**
+**Tech**
 
 - Python
 - FastAPI
@@ -87,11 +91,11 @@ AI-powered personal assistant with memory, RAG, automation and local LLM support
 
 ---
 
-## 🗺 Interactive College Mapping System
+### 🗺 Interactive College Mapping System
 
-Campus navigation system with interactive maps and route guidance.
+Interactive campus navigation platform.
 
-**Tech Used**
+**Tech**
 
 - React
 - Leaflet
@@ -100,20 +104,20 @@ Campus navigation system with interactive maps and route guidance.
 
 ---
 
-## 📰 AI News Recommendation System
+### 📰 AI News Recommendation System
 
-Personalized news recommendation engine using Machine Learning.
+Personalized AI news recommendation engine.
 
-**Tech Used**
+**Tech**
 
 - Python
+- Machine Learning
 - ChromaDB
 - FastAPI
-- Machine Learning
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -133,7 +137,7 @@ Personalized news recommendation engine using Machine Learning.
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsubash04-bot&theme=tokyo-night"/>
@@ -166,9 +170,11 @@ Personalized news recommendation engine using Machine Learning.
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
-<br><br>
-💙 If you like my projects, consider giving them a star.
+
+If you like my work, consider ⭐ starring my repositories.
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
