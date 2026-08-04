@@ -91,13 +91,6 @@ AI & Data Science Student | Python Developer | React Developer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulsubash04-bot&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
