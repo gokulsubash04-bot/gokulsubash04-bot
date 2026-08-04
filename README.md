@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokul Subash</h1>
-
 <h3 align="center">
 AI & Data Science Student | Python Developer | React Developer
 </h3>
 
 <!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation"/>
 </p>
 
 <!-- Social Links -->
@@ -38,62 +37,53 @@ AI & Data Science Student | Python Developer | React Developer
 
 # 👨‍💻 About Me
 
-- 🎓 AI & Data Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🚀 Building AI Assistants, RAG Systems & Smart Applications
-- 🌐 Full Stack Developer using React & FastAPI
-- 🗄️ Exploring ChromaDB, SQL & Vector Databases
-- 🧠 Learning LLMs, Generative AI & Backend Development
-- 🎯 Goal: Become an AI Engineer
+- 🎓 AI & Data Science student
+- 🤖 Passionate about artificial intelligence and machine learning
+- 🚀 Building AI assistants, RAG systems, and smart applications
+- 🌐 Full-stack development with React and FastAPI
+- 🗄️ Exploring ChromaDB, SQL, and vector databases
+- 🧠 Learning LLMs, generative AI, and backend development
+- 🎯 Goal: become an AI Engineer
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark"/>
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 </p>
 
 ### Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
 </p>
 
 ### AI / ML
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
 </p>
 
 ### Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-
 # 📊 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsubash04-bot&theme=tokyo-night"/>
 </p>
 
 ---
 
-
 # 📫 Connect With Me
-
 <p align="center">
   <a href="mailto:gokulsubash04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
@@ -107,7 +97,7 @@ AI & Data Science Student | Python Developer | React Developer
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐<br>
-If you like my work, consider ⭐ starring my repositories.
+If you like my work, consider starring my repositories.
 </p>
 
 <p align="center">
