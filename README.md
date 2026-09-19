@@ -91,15 +91,6 @@ AI & Data Science Student | Python Developer | React Developer
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-# 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsubash04-bot&theme=tokyo-night&area=true"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
 # 📫 Connect With Me
 <p align="center">
   <a href="mailto:gokulsubash04@gmail.com">
