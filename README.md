@@ -1,128 +1,253 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="wave"/>, I'm Gokul Subash</h1>
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+       width="35"
+       alt="wave"/>,
+  I'm Gokul Subash
+</h1>
+
 <h3 align="center">
-AI & Data Science Student | Python Developer | React Developer
+  AI & Data Science Student | Python Developer | React Developer
 </h3>
 
-<!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/xUNd9Ei1xEnlI7I0rC/giphy.gif" width="500" alt="Futuristic holographic interface animation"/>
+  <img
+    src="https://media1.giphy.com/media/xUNd9Ei1xEnlI7I0rC/giphy.gif"
+    width="500"
+    alt="Futuristic coding animation"
+  />
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/gokulsubash04-bot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
   <a href="mailto:gokulsubash04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;React+Frontend+Developer;FastAPI+Developer;Building+AI+Powered+Applications;Exploring+LLMs+%26+RAG;Always+Learning+New+Technologies" alt="Typing SVG"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;React+Frontend+Developer;FastAPI+Developer;Building+AI+Powered+Applications;Exploring+LLMs+%26+RAG;Always+Learning+New+Technologies"
+      alt="Typing animation"
+    />
   </a>
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulsubash04-bot&label=Profile+Views&color=36BCF7&style=for-the-badge"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=gokulsubash04-bot&label=Profile+Views&color=36BCF7&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
-<!-- Header Wave (animated) -->
+<!-- ========================= -->
+<!-- ARCADE RUNNER -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&animation=twinkling"/>
+  <img
+    src="./assets/profile-runner.svg"
+    width="100%"
+    alt="Animated arcade runner"
+  />
 </p>
+
+<br>
 
 # 👨‍💻 About Me
 
 <table>
 <tr>
+
 <td width="60%">
 
 - 🎓 AI & Data Science student
-- 🤖 Passionate about artificial intelligence and machine learning
-- 🚀 Building AI assistants, RAG systems, and smart applications
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🚀 Building AI-powered applications
 - 🌐 Full-stack development with React and FastAPI
-- 🗄️ Exploring ChromaDB, SQL, and vector databases
-- 🧠 Learning LLMs, generative AI, and backend development
-- 🎯 Goal: become an AI Engineer
+- 🐍 Python developer
+- 🗄️ Exploring SQL and vector databases
+- 🧠 Learning LLMs, Generative AI and RAG
+- 🎯 Aspiring AI Engineer
 
 </td>
+
 <td width="40%">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation"/>
+
+<img
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  width="100%"
+  alt="Coding animation"
+/>
+
 </td>
+
 </tr>
 </table>
 
+<!-- ========================= -->
+<!-- RUNNER -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img
+    src="./assets/profile-runner.svg"
+    width="100%"
+    alt="Animated arcade runner"
+  />
 </p>
 
 # 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding animation"/>
-</p>
-
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark"/>
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
 </p>
 
 ### AI / ML
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
 </p>
 
 ### Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark"/>
 </p>
 
+<!-- ========================= -->
+<!-- RUNNER -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img
+    src="./assets/profile-runner.svg"
+    width="100%"
+    alt="Animated arcade runner"
+  />
+</p>
+
+# 🚀 What I'm Building
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Applications
+
+Building intelligent applications using:
+
+- Python
+- LLMs
+- RAG
+- Vector databases
+- FastAPI
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack
+
+Building modern applications using:
+
+- React
+- Vite
+- Tailwind
+- FastAPI
+- SQL
+
+</td>
+
+</tr>
+</table>
+
+<!-- ========================= -->
+<!-- RUNNER -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="./assets/profile-runner.svg"
+    width="100%"
+    alt="Animated arcade runner"
+  />
+</p>
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gokulsubash04-bot&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsubash04-bot&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub streak"
+  />
+</p>
+
+<!-- ========================= -->
+<!-- RUNNER -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="./assets/profile-runner.svg"
+    width="100%"
+    alt="Animated arcade runner"
+  />
 </p>
 
 # 📫 Connect With Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Connect animation"/>
-</p>
 
-<p align="center">
   <a href="mailto:gokulsubash04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://github.com/gokulsubash04-bot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  Keep building. Keep learning. Keep experimenting.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656aae.gif" width="300" alt="Thanks animation"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐<br>
-If you like my work, consider starring my repositories.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&animation=twinkling"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&animation=twinkling"
+    width="100%"
+  />
 </p>
