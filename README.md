@@ -62,6 +62,10 @@ AI & Data Science Student | Python Developer | React Developer
 
 # 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding animation"/>
+</p>
+
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark"/>
@@ -92,6 +96,11 @@ AI & Data Science Student | Python Developer | React Developer
 </p>
 
 # 📫 Connect With Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Connect animation"/>
+</p>
+
 <p align="center">
   <a href="mailto:gokulsubash04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
@@ -103,6 +112,10 @@ AI & Data Science Student | Python Developer | React Developer
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656aae.gif" width="300" alt="Thanks animation"/>
 </p>
 
 <p align="center">
