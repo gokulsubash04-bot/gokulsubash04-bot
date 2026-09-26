@@ -193,7 +193,11 @@ Building modern applications using:
   />
 </p>
 
-# 📊 GitHub Activity
+<!-- ========================= -->
+<!-- GITHUB ACTIVITY -->
+<!-- ========================= -->
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <img
@@ -203,14 +207,14 @@ Building modern applications using:
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsubash04-bot&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=gokulsubash04-bot&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub streak"
   />
 </p>
 
 <!-- ========================= -->
-<!-- RUNNER -->
+<!-- PROFILE RUNNER -->
 <!-- ========================= -->
 
 <p align="center">
@@ -220,7 +224,6 @@ Building modern applications using:
     alt="Animated arcade runner"
   />
 </p>
-
 # 📫 Connect With Me
 
 <p align="center">
